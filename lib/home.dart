@@ -33,7 +33,6 @@ class Home extends StatelessWidget {
                 Text('400+\nfollowing', style: TextStyle(fontSize: 15)),
                 SizedBox(width:20),
                 Text('5+\nprojects', style: TextStyle(fontSize: 15)),
-
               ],
             )
           ],
